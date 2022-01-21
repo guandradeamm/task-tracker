@@ -50,4 +50,4 @@ yarn start
 
 **Live Demo:**
 
-You can check a live demo of the app running [here](trackertasker.netlify.app)
+You can check a live demo of the app running [here](https://trackertasker.netlify.app)
