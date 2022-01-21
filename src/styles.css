@@ -4,6 +4,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  background-color: #c7c7c7;
 }
 
 body {
@@ -15,7 +16,7 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 3px solid #000000;
   padding: 30px;
   border-radius: 5px;
 }
